@@ -8,7 +8,7 @@ require("dotenv").config();
 
 
 const Port = process.env.port || 4000;
-console.log(Port)
+// console.log(Port)
 
 // middleware to parse the json request body
 
